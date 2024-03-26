@@ -1,2 +1,2 @@
-# NodeJS-MySQL-React-Demo
-NodeJS, MySQL &amp; React Demo
+# NodeJS-MSSQL-React-Demo
+NodeJS, MSSQL &amp; React Demo
